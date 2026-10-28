@@ -1,5 +1,5 @@
 # Image Processing Tools: RGB to Grayscale & BMP to JPG Converter
-
+By. Tegs - Dinamika
 Kumpulan utilitas pengolahan citra digital berbasis desktop GUI dengan Python. Repository ini mencakup dua alat utama:
 1. **RGB to Grayscale Converter**: Mengonversi citra warna menjadi monokrom menggunakan berbagai pendekatan matematis citra digital.
 2. **BMP to JPG Converter & Compressor**: Mengonversi citra format bitmap (BMP) ke JPEG dengan fitur optimasi ukuran file dan kompresi cerdas.
