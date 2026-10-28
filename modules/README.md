@@ -1,2 +1,2 @@
  # Modul skrip penelitian individual
-Kontribusi by. Anjik SA - Dinamika
+Kontribusi by. Mr. Anjik - Dinamika
